@@ -19,5 +19,5 @@ python run.py
 
 magnet:?xt=urn:btih:5f96d43576e3d386c9ba65b883210a393b68210e&tr=https%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
 
-许可证
+## 许可证
 此版本中的代码和相关的Grok-1权重受Apache 2.0许可证的约束。该许可证仅适用于此存储库中的源文件和Grok-1的模型权重。
